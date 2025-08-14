@@ -252,7 +252,16 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "lib_symbol_mismatch|1257300|1714500|3d03cdde-3b0a-4727-a84a-1787a3a5fc2a|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|1257300|711200|e0caed54-f5b2-489f-a0b1-4935c4afd3e9|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
