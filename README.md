@@ -28,10 +28,10 @@ KiCad 9.0
 |---------------------------|----|------|------|
 |BT1                        |   1|      |[単3電池ボックス](https://akizukidenshi.com/catalog/g/g100308/)|
 |BT2                        |   1|      |[単4電池ボックス](https://akizukidenshi.com/catalog/g/g102670/)|
-|C1, C5, C6, C7, C8, C9, C10|   7|0.1μF|積層セラミックコンデンサー|
+|C1, C5, C6, C7, C8, C9, C10|   7|0.1μF|[積層セラミックコンデンサー 2.5mm](https://akizukidenshi.com/catalog/g/g113582/)|
 |C2                         |   1|100μF|電解コンデンサー φ6.3|
 |C3 (\*1)                   |   1| 10μF|積層セラミックコンデンサー 3225M|
-|C4 (\*1)                   |   1| 10μF|積層セラミックコンデンサー|
+|C4 (\*1)                   |   1| 10μF|[積層セラミックコンデンサー 5mm](https://akizukidenshi.com/catalog/g/g103095/)|
 |D1, D2                     |   2|1S2076A|小信号用汎用ダイオード|
 |D3                         |   1|[OS5REA51A5A](https://akizukidenshi.com/catalog/g/g114209/)|赤色LED (ミルキーレンズ)|
 |D4                         |   1|[OSG5DA51A5A](https://akizukidenshi.com/catalog/g/g114207/)|緑色LED (ミルキーレンズ)|
@@ -41,7 +41,7 @@ KiCad 9.0
 |J1 (\*3)                   |   1|      |[USB Type-Cコネクター 電源供給用](https://akizukidenshi.com/catalog/g/g116438/)|
 |J2 (\*3)                   |   1|      |[USB Type-Cコネクター](https://akizukidenshi.com/catalog/g/g114356/)|
 |J3                         |   1|      |ピンソケット 1x3、UPDI用|
-|J4                         |   1|      |あるいは[ロープロファイルピンソケット](https://akizukidenshi.com/catalog/g/g100661/) 1x4、OLED接続用|
+|J4                         |   1|      |[ロープロファイルピンソケット](https://akizukidenshi.com/catalog/g/g100661/) 1x4、OLED接続用|
 |J5                         |   1|      |ピンヘッダー 1x6、シリアル通信用|
 |Q1                         |   1|[DTC114EL](https://akizukidenshi.com/catalog/g/g112467/)|抵抗入りNPNトランジスター|
 |Q2                         |   1|[DTA114EL](https://akizukidenshi.com/catalog/g/g112464/)|抵抗入りPNPトランジスター|
