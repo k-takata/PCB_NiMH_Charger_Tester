@@ -11387,7 +11387,7 @@
 				)
 			)
 		)
-		(property "Value" "NJM7043"
+		(property "Value" "NJU7043"
 			(at 143.51 113.03 0)
 			(effects
 				(font
@@ -13936,7 +13936,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NJM7043"
+		(property "Value" "NJU7043"
 			(at 20.32 172.7199 0)
 			(effects
 				(font
@@ -14701,7 +14701,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TL431LP"
+		(property "Value" "TL431"
 			(at 114.3 30.4799 90)
 			(effects
 				(font
@@ -15844,7 +15844,7 @@
 				)
 			)
 		)
-		(property "Value" "NJM7043"
+		(property "Value" "NJU7043"
 			(at 143.51 132.08 0)
 			(effects
 				(font
