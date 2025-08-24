@@ -6824,6 +6824,12 @@
 		(uuid "72e3b2a0-4e04-43f2-bd08-ec8cc624825b")
 	)
 	(junction
+		(at 186.69 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "73b7739d-cc90-4751-a0a3-3ee6b80158c5")
+	)
+	(junction
 		(at 184.15 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6918,6 +6924,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e854c27b-943e-4574-b7d0-0b835123d305")
+	)
+	(junction
+		(at 186.69 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fe5f2ad7-dff6-4f30-a303-d88ff4a760c2")
 	)
 	(junction
 		(at 116.84 87.63)
@@ -7053,6 +7065,16 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 118.11) (xy 198.12 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d685a17-b7b2-4613-95b8-dac8c79e56ac")
+	)
+	(wire
+		(pts
 			(xy 116.84 156.21) (xy 116.84 171.45)
 		)
 		(stroke
@@ -7140,6 +7162,16 @@
 			(type default)
 		)
 		(uuid "30bd332a-807d-4c4b-974a-abdceca6e2a3")
+	)
+	(wire
+		(pts
+			(xy 245.11 125.73) (xy 245.11 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "328bd009-a38f-42ab-b474-f5e0e7f1d3e5")
 	)
 	(wire
 		(pts
@@ -7240,6 +7272,16 @@
 			(type default)
 		)
 		(uuid "4701b893-4c7d-49b8-a64f-a3e4c3e30b34")
+	)
+	(wire
+		(pts
+			(xy 245.11 134.62) (xy 186.69 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48b252aa-9b8f-43bf-bd60-3a8aa8de1721")
 	)
 	(wire
 		(pts
@@ -7673,6 +7715,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 113.03) (xy 170.18 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac2a0ac7-a4c9-4159-b48d-0fd70d81ca47")
+	)
+	(wire
+		(pts
 			(xy 184.15 110.49) (xy 186.69 110.49)
 		)
 		(stroke
@@ -7730,16 +7782,6 @@
 			(type default)
 		)
 		(uuid "b7d1f407-cb14-405a-9da1-7a79efdceb44")
-	)
-	(wire
-		(pts
-			(xy 198.12 118.11) (xy 198.12 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9492069-4e6b-427c-a01c-fda5f871b561")
 	)
 	(wire
 		(pts
@@ -7810,6 +7852,16 @@
 			(type default)
 		)
 		(uuid "cf0afdbb-30a0-45a7-b19c-bcabc40c8fd5")
+	)
+	(wire
+		(pts
+			(xy 186.69 110.49) (xy 245.11 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf8dcab8-f920-4aa2-bfb7-eed71e2e3bcb")
 	)
 	(wire
 		(pts
@@ -8119,6 +8171,28 @@
 			)
 		)
 	)
+	(global_label "BT1+"
+		(shape bidirectional)
+		(at 237.49 118.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "212e3763-3a6a-426c-862e-2f6cd93f9b59")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 228.374 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "UPDI"
 		(shape bidirectional)
 		(at 29.21 114.3 180)
@@ -8339,6 +8413,28 @@
 			)
 		)
 	)
+	(global_label "BT2+"
+		(shape bidirectional)
+		(at 198.12 120.65 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "776ed216-71d5-4214-b4f4-d26e20494117")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 189.004 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "ChgCtl"
 		(shape output)
 		(at 71.12 129.54 0)
@@ -8445,6 +8541,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BT1+"
+		(shape bidirectional)
+		(at 170.18 113.03 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a3998752-48df-4e08-b2c3-6aeaa26bb085")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 179.296 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -8638,6 +8756,28 @@
 		(uuid "d553e984-bbe3-48a0-948a-f43ee8d1a7d7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 92.4899 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BT2+"
+		(shape bidirectional)
+		(at 252.73 118.11 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "df7b8de6-b4ff-4929-94ed-d3cc8614ac12")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 261.846 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13359,7 +13499,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a95409b6-2729-4b72-a7e5-547b7674e38b")
 		(property "Reference" "#PWR035"
 			(at 198.12 135.89 0)
@@ -13371,7 +13510,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 198.12 134.62 0)
+			(at 198.12 133.604 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14973,6 +15112,80 @@
 			(project ""
 				(path "/d20e9c0c-3c6f-4c5b-a7e9-4a9116696809"
 					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "mylib:TS260S")
+		(at 245.11 118.11 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "d623cf86-13ce-4ea2-b7e9-137bd67f49d5")
+		(property "Reference" "D6"
+			(at 255.27 111.6898 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "S1ZB20"
+			(at 255.27 114.2298 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-4_W7.62mm"
+			(at 245.11 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.jp/datasheet/2/366/J534S1ZB-1203344.pdf"
+			(at 245.11 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Schottky Bridge, 200V Vrms, 1A If, DIP-4"
+			(at 245.11 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "4dec2645-898c-43a8-a45e-c5e769af2596")
+		)
+		(pin "3"
+			(uuid "17692c0e-58d8-4876-b0e1-c50ddaa3bc0c")
+		)
+		(pin "1"
+			(uuid "05453dd9-76f4-4b9a-863d-0beeddef7c20")
+		)
+		(pin "2"
+			(uuid "7f58d31d-e8a8-410d-938e-fedbb74591a8")
+		)
+		(instances
+			(project "PCB_NiMH_Charger_Tester"
+				(path "/d20e9c0c-3c6f-4c5b-a7e9-4a9116696809"
+					(reference "D6")
 					(unit 1)
 				)
 			)
