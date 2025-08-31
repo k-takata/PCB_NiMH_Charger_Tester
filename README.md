@@ -40,7 +40,7 @@ KiCad 9.0
 |F2 (\*2)                   |   1|  1.1A|[ポリヒューズ](https://akizukidenshi.com/catalog/g/g100507/)|
 |J1 (\*3)                   |   1|      |[USB Type-Cコネクター 電源供給用](https://akizukidenshi.com/catalog/g/g116438/)|
 |J2 (\*3)                   |   1|      |[USB Type-Cコネクター](https://akizukidenshi.com/catalog/g/g114356/)|
-|J3                         |   1|      |ピンソケット 1x3、UPDI用|
+|J3                         |   1|      |ピンヘッダー 1x3、UPDI用|
 |J4                         |   1|      |[ロープロファイルピンソケット](https://akizukidenshi.com/catalog/g/g100661/) 1x4、OLED接続用|
 |J5                         |   1|      |ピンヘッダー 1x6、シリアル通信用|
 |Q1                         |   1|[DTC114EL](https://akizukidenshi.com/catalog/g/g112467/)|抵抗入りNPNトランジスター|
