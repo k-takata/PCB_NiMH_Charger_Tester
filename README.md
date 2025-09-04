@@ -48,9 +48,11 @@ KiCad 9.0
 |Q3                         |   1|[MTB060P06I3](https://akizukidenshi.com/catalog/g/g116095/)|PchパワーMOSFET 60V 16.7A|
 |Q4                         |   1|[MTA100N10KRI3](https://akizukidenshi.com/catalog/g/g115847/)|NchパワーMOSFET 100V 10A|
 |R1, R2                     |   2|5.1kΩ|1/6Wサイズ|
-|R3, R4, R12, R15, R16, R19 |   6| 10kΩ|1/4Wサイズ|
-|R5, R6, R7, R10, R11       |   5|  1kΩ|1/4Wサイズ|
+|R3, R4, R16, R19           |   4| 10kΩ|1/4Wサイズ|
+|R5, R6, R7                 |   3|  1kΩ|1/4Wサイズ|
 |R8, R9 (\*4)               |   2| 10kΩ|1/4Wサイズ、LED電流制限用 (4.7kΩ～22kΩ)|
+|R10, R11                   |   2|4.7kΩ|1/4Wサイズ|
+|R12, R15                   |   2| 47kΩ|1/4Wサイズ|
 |R13, R14                   |   2| 100Ω|1/4Wサイズ|
 |R17                        |   1|  10Ω|[酸化金属皮膜抵抗 3W 10Ω](https://akizukidenshi.com/catalog/g/g111015/)|
 |R18                        |   1|   1Ω|[酸化金属皮膜抵抗 3W 1Ω](https://akizukidenshi.com/catalog/g/g111013/)|

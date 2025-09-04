@@ -2345,7 +2345,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "4.7k"
 			(at 1.27 2.37 0)
 			(layer "F.Fab")
 			(uuid "9695fcf8-7972-469c-b1c5-f113af5f7923")
@@ -6093,7 +6093,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47k"
 			(at 1.27 2.37 0)
 			(layer "F.Fab")
 			(uuid "ccccf56f-2433-4bf3-af72-e3151b1034d3")
@@ -6247,7 +6247,7 @@
 				)
 			)
 		)
-		(property "Value" "UPDI header"
+		(property "Value" "UPDI v2 header"
 			(at 0 10 0)
 			(layer "F.Fab")
 			(uuid "e7f7841a-954b-4ab5-b2a8-af6fe9e96529")
@@ -9052,7 +9052,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47k"
 			(at 1.27 2.37 0)
 			(layer "F.Fab")
 			(uuid "d25f1407-2780-4274-b01b-2d5af861aabb")
@@ -13766,7 +13766,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "4.7k"
 			(at 1.27 2.37 0)
 			(layer "F.Fab")
 			(uuid "478eb397-a629-4af7-9089-08cfc9505790")

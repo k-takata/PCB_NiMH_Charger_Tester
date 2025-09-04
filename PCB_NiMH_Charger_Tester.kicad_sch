@@ -11083,7 +11083,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47k"
 			(at 156.21 152.4 90)
 			(effects
 				(font
@@ -12044,7 +12044,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "4.7k"
 			(at 129.54 91.44 90)
 			(effects
 				(font
@@ -13882,7 +13882,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47k"
 			(at 156.21 83.82 90)
 			(effects
 				(font
@@ -15873,7 +15873,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "4.7k"
 			(at 129.54 152.4 90)
 			(effects
 				(font
