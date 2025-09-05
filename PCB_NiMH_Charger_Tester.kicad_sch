@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "NiMH Charger & Tester")
-		(date "2025-08-25")
+		(date "2025-09-05")
 		(rev "2")
 		(company "K.Takata")
 	)
@@ -14402,16 +14402,16 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x06_Pin")
-		(at 267.97 33.02 0)
+		(at 267.97 35.56 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ba6ad498-4aec-4169-89da-d92364629fd3")
 		(property "Reference" "J5"
-			(at 268.605 22.86 0)
+			(at 268.478 23.876 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14419,7 +14419,7 @@
 			)
 		)
 		(property "Value" "Serial Header"
-			(at 268.605 25.4 0)
+			(at 268.478 21.336 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14427,7 +14427,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
-			(at 267.97 33.02 0)
+			(at 267.97 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14436,7 +14436,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 267.97 33.02 0)
+			(at 267.97 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14445,7 +14445,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated"
-			(at 267.97 33.02 0)
+			(at 267.97 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
