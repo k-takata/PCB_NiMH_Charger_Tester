@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "NiMH Charger & Tester")
-		(date "2025-09-05")
+		(date "2025-09-11")
 		(rev "2")
 		(company "K.Takata")
 	)
@@ -1610,7 +1610,7 @@
 		(property "Reference" "J4"
 			(at 0 -2.77 90)
 			(layer "F.SilkS")
-			(uuid "8654b21c-323f-4f3c-a462-2dceb3551577")
+			(uuid "6209c115-42b8-417e-8b34-daf822009523")
 			(effects
 				(font
 					(size 1 1)
@@ -1621,7 +1621,7 @@
 		(property "Value" "SSD1306"
 			(at 0 10.39 90)
 			(layer "F.Fab")
-			(uuid "7ffc5f7a-4790-4adf-bd45-81092f247c4d")
+			(uuid "3ca5187f-ff8d-4d0c-a415-7719cbbb2e70")
 			(effects
 				(font
 					(size 1 1)
@@ -1633,7 +1633,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "17ea7385-4de0-4c91-844a-79cdc3f68b54")
+			(uuid "8c7081c3-7615-4e02-a916-0d9f3635b5f9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1645,7 +1645,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a3261503-1cec-463f-b4f4-9f1a535ede95")
+			(uuid "17a85859-2409-41bd-9346-ebb05f3c9a0f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1822,7 +1822,7 @@
 		(pad "1" thru_hole rect
 			(at 0 0 90)
 			(size 1.7 1.7)
-			(drill 0.9)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -1833,7 +1833,7 @@
 		(pad "2" thru_hole circle
 			(at 0 2.54 90)
 			(size 1.7 1.7)
-			(drill 0.9)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 4 "+5V")
@@ -1844,7 +1844,7 @@
 		(pad "3" thru_hole circle
 			(at 0 5.08 90)
 			(size 1.7 1.7)
-			(drill 0.9)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 24 "SCL")
@@ -1855,7 +1855,7 @@
 		(pad "4" thru_hole circle
 			(at 0 7.62 90)
 			(size 1.7 1.7)
-			(drill 0.9)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 25 "SDA")
@@ -6637,7 +6637,7 @@
 		(pad "1" thru_hole rect
 			(at 0 0)
 			(size 1.7 1.7)
-			(drill 0.9)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 40 "RESET")
@@ -6648,7 +6648,7 @@
 		(pad "2" thru_hole circle
 			(at 0 2.54)
 			(size 1.7 1.7)
-			(drill 0.9)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 4 "+5V")
@@ -6659,7 +6659,7 @@
 		(pad "3" thru_hole circle
 			(at 0 5.08)
 			(size 1.7 1.7)
-			(drill 0.9)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -6670,7 +6670,7 @@
 		(pad "4" thru_hole circle
 			(at 0 7.62)
 			(size 1.7 1.7)
-			(drill 0.9)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 23 "UPDI")
@@ -14645,7 +14645,7 @@
 		(pad "1" thru_hole rect
 			(at 0 0)
 			(size 1.7 1.7)
-			(drill 0.9)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -14656,7 +14656,7 @@
 		(pad "2" thru_hole circle
 			(at 0 2.54)
 			(size 1.7 1.7)
-			(drill 0.9)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 56 "unconnected-(J5-Pin_2-Pad2)")
@@ -14667,7 +14667,7 @@
 		(pad "3" thru_hole circle
 			(at 0 5.08)
 			(size 1.7 1.7)
-			(drill 0.9)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 4 "+5V")
@@ -14678,7 +14678,7 @@
 		(pad "4" thru_hole circle
 			(at 0 7.62)
 			(size 1.7 1.7)
-			(drill 0.9)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 27 "RX")
@@ -14689,7 +14689,7 @@
 		(pad "5" thru_hole circle
 			(at 0 10.16)
 			(size 1.7 1.7)
-			(drill 0.9)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 26 "TX")
@@ -14700,7 +14700,7 @@
 		(pad "6" thru_hole circle
 			(at 0 12.7)
 			(size 1.7 1.7)
-			(drill 0.9)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 55 "unconnected-(J5-Pin_6-Pad6)")
