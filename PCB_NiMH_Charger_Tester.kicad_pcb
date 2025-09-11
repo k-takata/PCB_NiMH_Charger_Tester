@@ -6648,7 +6648,7 @@
 		(pad "2" thru_hole circle
 			(at 0 2.54)
 			(size 1.7 1.7)
-			(drill 0.8)
+			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 4 "+5V")
@@ -6659,7 +6659,7 @@
 		(pad "3" thru_hole circle
 			(at 0 5.08)
 			(size 1.7 1.7)
-			(drill 0.8)
+			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -14656,7 +14656,7 @@
 		(pad "2" thru_hole circle
 			(at 0 2.54)
 			(size 1.7 1.7)
-			(drill 0.8)
+			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 56 "unconnected-(J5-Pin_2-Pad2)")
@@ -14667,7 +14667,7 @@
 		(pad "3" thru_hole circle
 			(at 0 5.08)
 			(size 1.7 1.7)
-			(drill 0.8)
+			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 4 "+5V")
@@ -14678,7 +14678,7 @@
 		(pad "4" thru_hole circle
 			(at 0 7.62)
 			(size 1.7 1.7)
-			(drill 0.8)
+			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 27 "RX")
@@ -14689,7 +14689,7 @@
 		(pad "5" thru_hole circle
 			(at 0 10.16)
 			(size 1.7 1.7)
-			(drill 0.8)
+			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 26 "TX")
