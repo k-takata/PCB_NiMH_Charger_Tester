@@ -73,7 +73,7 @@ KiCad 9.0
 
 ## 作成
 
-T.B.D.
+[NiMH充電器&測定器の作成 (その1)](https://zenn.dev/k_takata/articles/nimh-charger-tester-1)を参照してください。
 
 
 ## 使用方法
@@ -82,6 +82,8 @@ T.B.D.
 
 
 ## 完成品
+
+T.B.D.
 
 <!--
 [![完成品](https://raw.githubusercontent.com/k-takata/PCB_NiMH_Charger_Tester/master/images/usb-c-adaptor-thumb.jpg)](https://raw.githubusercontent.com/k-takata/PCB_NiMH_Charger_Tester/master/images/nimh-charger-tester.jpg)
