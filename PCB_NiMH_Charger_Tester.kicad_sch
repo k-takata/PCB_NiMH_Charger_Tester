@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "NiMH Charger & Tester")
-		(date "2025-09-05")
+		(date "2025-09-26")
 		(rev "2")
 		(company "K.Takata")
 	)
@@ -7083,6 +7083,12 @@
 		(uuid "530161fa-a9f1-46a7-897f-8a43f509ce8c")
 	)
 	(junction
+		(at 191.77 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5863bdbc-a0e7-45e9-abfc-0588dda829f5")
+	)
+	(junction
 		(at 135.89 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7173,6 +7179,12 @@
 		(uuid "9c73d704-6c43-468b-a281-6c5a68fa5d32")
 	)
 	(junction
+		(at 191.77 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a5a5ca39-7670-4efd-8139-1afd9f8ec613")
+	)
+	(junction
 		(at 157.48 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7261,10 +7273,6 @@
 		(uuid "d42f5228-8294-4ef5-98f9-5e86da7c94cc")
 	)
 	(no_connect
-		(at 29.21 119.38)
-		(uuid "d4c50daa-27ef-4f4a-aed7-e2e3af66650c")
-	)
-	(no_connect
 		(at 273.05 38.1)
 		(uuid "d92f335e-4e21-4ea5-a8a3-0658aa33690d")
 	)
@@ -7279,10 +7287,6 @@
 	(no_connect
 		(at 44.45 95.25)
 		(uuid "f2100006-2e08-4fbb-a5e4-2256e875eb3d")
-	)
-	(no_connect
-		(at 29.21 121.92)
-		(uuid "fd1acf38-d6c3-4707-a858-c81778fe33fe")
 	)
 	(wire
 		(pts
@@ -7483,6 +7487,16 @@
 			(type default)
 		)
 		(uuid "3307f87f-17b8-4687-b99d-3e54bea5170a")
+	)
+	(wire
+		(pts
+			(xy 200.66 144.78) (xy 191.77 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3385159a-00b2-40a8-b50f-b3df28dcef4f")
 	)
 	(wire
 		(pts
@@ -8096,6 +8110,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 100.33) (xy 191.77 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2749cf2-f993-4964-9b4d-9a6f5139d87a")
+	)
+	(wire
+		(pts
 			(xy 198.12 118.11) (xy 200.66 118.11)
 		)
 		(stroke
@@ -8582,6 +8606,28 @@
 			)
 		)
 	)
+	(global_label "Vdis"
+		(shape output)
+		(at 200.66 144.78 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4dae5ff7-159a-45b9-96d2-ae21ddec5567")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 207.5157 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "TX"
 		(shape output)
 		(at 71.12 114.3 0)
@@ -8824,6 +8870,28 @@
 			)
 		)
 	)
+	(global_label "Vdis"
+		(shape input)
+		(at 29.21 121.92 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8720f921-9ee7-4758-8394-f0929fc70e77")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 22.3543 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Vbt1"
 		(shape output)
 		(at 153.67 118.11 180)
@@ -9000,6 +9068,28 @@
 			)
 		)
 	)
+	(global_label "Vchg"
+		(shape output)
+		(at 200.66 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b940122b-4a73-4063-a5ab-878cb2dad4d9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.1204 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PWMdis"
 		(shape input)
 		(at 109.22 137.16 180)
@@ -9084,6 +9174,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Vchg"
+		(shape input)
+		(at 29.21 119.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d611cbd9-ef69-4926-a622-5c059c8d95ea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 21.7496 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
