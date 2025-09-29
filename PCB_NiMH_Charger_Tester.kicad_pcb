@@ -15751,7 +15751,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Disp/OK"
+	(gr_text "Mode/OK"
 		(at 80.772 100.33 0)
 		(layer "F.SilkS")
 		(uuid "e620d514-da94-459d-a229-fd6541be3e5d")
