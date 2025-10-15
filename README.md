@@ -58,8 +58,8 @@ Rev. 1
 |R17                        |   1|  10Ω|茶黒黒金茶、[酸化金属皮膜抵抗 3W 10Ω](https://akizukidenshi.com/catalog/g/g111015/)|
 |R18                        |   1|   1Ω|茶黒黒銀茶、[酸化金属皮膜抵抗 3W 1Ω](https://akizukidenshi.com/catalog/g/g111013/)|
 |SW1                        |   1|[DTS-63-N-V-RED](https://akizukidenshi.com/catalog/g/g103646/)|タクトスイッチ (赤色)|
-|SW2                        |   1|[DTS-63-N-V-WHT](https://akizukidenshi.com/catalog/g/g103648/)|タクトスイッチ (白色)|
-|SW3                        |   1|[DTS-63-N-V-BLK](https://akizukidenshi.com/catalog/g/g103647/)|タクトスイッチ (黒色)|
+|SW2                        |   1|[DTS-63-N-V-GRN](https://akizukidenshi.com/catalog/g/g103651/)|タクトスイッチ (緑色)|
+|SW3                        |   1|[DTS-63-N-V-BLU](https://akizukidenshi.com/catalog/g/g103649/)|タクトスイッチ (水色)|
 |U1                         |   1|[AVR64DD28-I/SP](https://akizukidenshi.com/catalog/g/g118314/)|AVRマイコン|
 |U2                         |   1|[NJU7043](https://akizukidenshi.com/catalog/g/g106840/)|2回路入入出力フルスイングオペアンプ|
 |U3, U5                     |   1|[MCP9700BT-E/TT](https://akizukidenshi.com/catalog/g/g130948/)|温度センサーIC|
