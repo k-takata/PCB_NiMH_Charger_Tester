@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "NiMH Charger & Tester")
-		(date "2025-09-26")
+		(date "2025-10-15")
 		(rev "2")
 		(company "K.Takata")
 	)
@@ -11452,7 +11452,7 @@
 				)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "10k"
 			(at 156.21 152.4 90)
 			(effects
 				(font
@@ -12413,7 +12413,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "1k"
 			(at 129.54 91.44 90)
 			(effects
 				(font
@@ -14326,7 +14326,7 @@
 				)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "10k"
 			(at 156.21 83.82 90)
 			(effects
 				(font
@@ -16243,7 +16243,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "1k"
 			(at 129.54 152.4 90)
 			(effects
 				(font

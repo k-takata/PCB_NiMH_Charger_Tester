@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "NiMH Charger & Tester")
-		(date "2025-09-26")
+		(date "2025-10-15")
 		(rev "2")
 		(company "K.Takata")
 	)
@@ -2343,7 +2343,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "1k"
 			(at 1.27 2.37 0)
 			(layer "F.Fab")
 			(uuid "9695fcf8-7972-469c-b1c5-f113af5f7923")
@@ -6277,7 +6277,7 @@
 				)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "10k"
 			(at 1.27 2.37 0)
 			(layer "F.Fab")
 			(uuid "ccccf56f-2433-4bf3-af72-e3151b1034d3")
@@ -9050,7 +9050,7 @@
 				)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "10k"
 			(at 1.27 2.37 0)
 			(layer "F.Fab")
 			(uuid "d25f1407-2780-4274-b01b-2d5af861aabb")
@@ -13764,7 +13764,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "1k"
 			(at 1.27 2.37 0)
 			(layer "F.Fab")
 			(uuid "478eb397-a629-4af7-9089-08cfc9505790")
