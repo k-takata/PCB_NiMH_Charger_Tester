@@ -107,8 +107,10 @@ Rev. 2での変更点は以下の通りです。
 
 ## 参考文献
 
-1. [トランジスタ技術SPECIAL No.135 Liイオン/鉛/NiMH蓄電池の充電&電源技術](https://shop.cqpub.co.jp/hanbai/books/46/46751.html) 「第4章　研究！ ニッケル水素蓄電池の耐久テスト」
-2. [トランジスタ技術SPECIAL No.170 教科書付き 小型バッテリ電源回路](https://www.cqpub.co.jp/trs/trsp170.htm) 「Appendix 1　充放電回数の限界…サイクル耐久特性の実測」
+1. [トランジスタ技術SPECIAL No.135 Liイオン/鉛/NiMH蓄電池の充電&電源技術](https://shop.cqpub.co.jp/hanbai/books/46/46751.html)<br/>
+   「第4章　研究！ ニッケル水素蓄電池の耐久テスト」 下間 憲行著
+2. [トランジスタ技術SPECIAL No.170 教科書付き 小型バッテリ電源回路](https://www.cqpub.co.jp/trs/trsp170.htm)<br/>
+   「Appendix 1　充放電回数の限界…サイクル耐久特性の実測」 下間 憲行著
 3. [電池応用ハンドブック](https://www.cqpub.co.jp/hanbai/books/34/34461.htm)
 
 
