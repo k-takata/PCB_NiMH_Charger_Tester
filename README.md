@@ -91,7 +91,7 @@ Rev. 2での変更点は以下の通りです。
 
 * 充放電電流を測定できるようにTP2 (Vchg)とPF0ピンを接続し、TP3 (Vdis)とPF1ピンを接続。
 * ICを取り外しやすくなるようにAVRマイコンの位置を調整。
-* UPDIコネクターを[AVR Programming Adaptor](https://www.microchip.com/en-us/development-tool/AC31S18A)に合わせて、4pinのピンヘッダーに変更。向きも反転。
+* UPDIコネクターを[AVR Programming Adapter](https://www.microchip.com/en-us/development-tool/AC31S18A)に合わせて、4pinのピンヘッダーに変更。向きも反転。
 * OLEDのコネクターの位置を調整。
 * ピンヘッダーやピンソケットのぐらつきが少なくなるようにドリル径を調整。
 * 単3電池の "+" マークのシルクの位置がずれていたのを修正。
